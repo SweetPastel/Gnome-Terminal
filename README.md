@@ -7,7 +7,7 @@ Gnome Terminal Themed with **SweetPastel**
 
 1. You need to intalled ``dbus`` in your system
 
-2. Create a new profile (Gnome Terminal >> ... >> Preferences >> Click on the + symbol) or just use a existing one
+2. Create a new profile (Gnome Terminal >> ... / Edit >> Preferences >> Click on the + symbol) or just use a existing one
 
 3. Run the script below in your terminal and enter the ``Name of the Profile`` you just created
 
